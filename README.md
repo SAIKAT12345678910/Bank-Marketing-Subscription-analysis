@@ -20,7 +20,9 @@ Cleaned and prepared raw marketing data using Excel
 Created Pivot Tables to analyze subscription trends by age, education, call duration, loan, and housing status
 Designed an interactive Excel dashboard using charts and slicers
 Calculated KPIs such as Success Rate, Average Call Duration, and Monthly Trends
+
 - Result
+  
 Identified that middle-aged customers (31–50) had the highest subscription rate
 Found that loan customers showed lower conversion compared to non-loan customers
 Determined optimal call duration range for higher success rates
